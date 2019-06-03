@@ -5,7 +5,7 @@ Extract the data of FabricationPart of Revit
 https://www.youtube.com/watch?v=c8Szl7Jtrlk
 
 # Steps
-1.	Follow Readme of LearnForge (https://github.com/Autodesk-Forge/learn.forge.designautomation/tree/master/forgesample) to setup the environment 
+1.	Follow [Readme of LearnForge](https://github.com/Autodesk-Forge/learn.forge.designautomation/tree/master/forgesample) to setup the environment 
 2.	Build Revit plugin (Revit 2019), ensure the zip of the bundle is output to \forgesample\wwwroot\bundles. The post build event uses 7zip. 
 3.	Build web app
 4.	Start ngrok
