@@ -19,5 +19,5 @@ https://www.youtube.com/watch?v=c8Szl7Jtrlk
 12.	Click [Start WorkItem]. Wait a moment
 13.	It will output the csv file, and upload to Forge bucket, and send web page with the download link of the csv
 
-Note: do not define the output file as *.txt or *.html if you want to use this LearnForge tutorial because it upload to Forge bucket, but bucket does not accept *.txt or *.html now. 
+Note: do not define the output file as *.txt or *.html if you want to use this LearnForge tutorial because it uploads to Forge bucket, but bucket does not accept *.txt or *.html now. 
 
